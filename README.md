@@ -1,3 +1,3 @@
 # CS3100-Team-7
 Repo for Software Engineering 1
-\nMaking our own Mario Level using python3 and pygame.
+Making our own Mario Level using python3 and pygame.
